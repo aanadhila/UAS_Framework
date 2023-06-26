@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "nama": "Mie Goreng",
+      "harga": "7000",
+      "gambar": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/01/920493128.jpg",
+      "id": 115
+    },
+    {
+      "nama": "Es Kepal",
+      "harga": "10000",
+      "gambar": "https://rasabunda.com/wp-content/uploads/2021/11/Es-Kepal-Milo.jpg",
+      "id": 116
+    },
+    {
+      "nama": "Mie Mala",
+      "harga": "15000",
+      "gambar": "https://cdn2.tstatic.net/travel/foto/bank/images/mie-mala-pedas.jpg",
+      "id": 117
+    },
+    {
+      "nama": "Ramen",
+      "harga": "25000",
+      "gambar": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/60d542b0-5a0c-4526-98ee-2cc5285bb170.jpg",
+      "id": 118
+    },
+    {
+      "nama": "Teh Tarik",
+      "harga": "5000",
+      "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2019/7/13/3611450/3611450_f12db48d-754e-497c-bec0-e76173e1b185_1000_1000.jpg",
+      "id": 119
+    },
+    {
+      "nama": "Es Teh",
+      "harga": "3000",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8ab1PQxUaAVMzrB-IprzRoIppxd06O6ylw&usqp=CAU",
+      "id": 120
+    },
+    {
+      "nama": "Es Jeruk",
+      "harga": "3000",
+      "gambar": "https://cdn.pixabay.com/photo/2016/12/20/21/43/orange-1921548_1280.jpg",
+      "id": 121
+    },
+    {
+      "nama": "Sate",
+      "harga": "10000",
+      "gambar": "https://cdn.pixabay.com/photo/2017/06/06/13/10/goat-satay-2377229_1280.jpg",
+      "id": 122
+    },
+    {
+      "nama": "Es Degan",
+      "harga": "7000",
+      "gambar": "https://cdn.pixabay.com/photo/2019/05/22/11/20/coconut-4221288_1280.jpg",
+      "id": 123
+    },
+    {
+      "nama": "Nasi Goreng",
+      "harga": "10000",
+      "gambar": "https://cdn.pixabay.com/photo/2017/03/20/09/06/food-2158540_1280.jpg",
+      "id": 124
+    },
+    {
+      "nama": "Cake",
+      "harga": "10000",
+      "gambar": "https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg",
+      "id": 125
+    }
+  ]
+}
